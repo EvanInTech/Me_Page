@@ -4,7 +4,7 @@
 
 ## I'm a Full stack developer attending Codeup in San Antonio
 
-- 🔭 I’m currently working on completing the Codeup Web development bootcamp
+- 🔭 Currenlty working as an Associate Software Engineer
 - 💬 Ask me about Blockchain and why it might be interesting!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in the Marine Corps. 
