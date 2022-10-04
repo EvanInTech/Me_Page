@@ -5,7 +5,7 @@
 ## I'm a Full stack developer attending Codeup in San Antonio
 
 - 🔭 Currenlty working as an Associate Software Engineer
-- 💬 Ask me about Blockchain and why it might be interesting!
+- 💬 Also know a little about Data Science
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in the Marine Corps. 
 
