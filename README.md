@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=evanwilliamsC137)
 [![Github](https://img.shields.io/github/followers/evanwilliamsC137?label=Follow&style=social)](https://github.com/evanwilliamsC137)
 
-## I'm a Full stack developer attending Codeup in San Antonio
+## I'm a Software Engineer at Bonterra
 
 - 🔭 Currenlty working as an Associate Software Engineer
 - 💬 Also know a little about Data Science
