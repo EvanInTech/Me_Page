@@ -6,7 +6,6 @@
 
 - 🔭 Currenlty working as an Associate Software Engineer
 - 💬 Also know a little about Data Science
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in the Marine Corps. 
 
 <br>
