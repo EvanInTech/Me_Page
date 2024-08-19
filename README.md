@@ -1,4 +1,4 @@
-# Hi there 👋 I'm evanwilliamsC137, but you can just call me Evan!
+# Hi there 👋 I'm Evan!
 ![](https://visitor-badge.laobi.icu/badge?page_id=evanwilliamsC137)
 [![Github](https://img.shields.io/github/followers/evanwilliamsC137?label=Follow&style=social)](https://github.com/evanwilliamsC137)
 
