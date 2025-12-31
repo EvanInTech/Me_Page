@@ -32,11 +32,15 @@ Databases: MySQL, Non-Relational
 Methodologies: Agile/Scrum, System Scalability, Code Quality Assurance, Technical Documentation  
 
 ## Certifications: :construction_worker:
-AWS Certified Developer Associate (2025)
+AWS Devops Engineer Professional
+|
+AWS Certified Developer Associate 
 |
 Codeup Full-Stack Career Accelerator (670 Hours, Sep 2021)
 
 # Professional Highlights
+Currently writing MVC .NET web applications for the United States Air Force
+
 Associate Software Engineer | Oct 2021 - Jan 2025
 Developed scalable case management software in C#/.NET, achieving 99.9% system reliability for over 100 users.  
 
